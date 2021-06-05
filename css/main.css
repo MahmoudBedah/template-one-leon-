@@ -169,6 +169,9 @@ width: 320px;
 }
 /*end features*/
 /*services*/
+.services{
+    padding: 60px 0;
+}
 .services .serv-content{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
